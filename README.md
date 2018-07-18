@@ -1,14 +1,12 @@
-Use IBM’s Watson Studio to create machine learning models and applications. Participants will be led through 5 labs (time permitting). Lab-1, Lab-2, Lab-3, and Lab-4 all use the Titanic data set, a common one used in Kaggle competitions. Lab-5 will use Watson Studio's Neural Network designer and Experiment Builder to build, train, and deploy a neural network model using the MNIST dataset.  
+Use IBM’s Watson Studio to create machine learning models and applications. Participants will be led through 4 labs (time permitting). All use the Titanic data set, a common one used in Kaggle competitions.  
 
-1. [Lab-1](https://github.com/bleonardb3/NS/tree/master/Lab-1) - The first lab will use the Watson Machine Learning capability to create a machine learning model based on the Titanic data set. The model will be deployed in the IBM Cloud, and an application will be built that uses the deployed machine learning model to predict survivability given passenger characteristics. 
+1. [Lab-1](https://github.com/bleonardb3/AA/tree/master/Lab-1) - The first lab will use the Watson Machine Learning capability to create a machine learning model based on the Titanic data set. The model will be deployed in the IBM Cloud, and an application will be built that uses the deployed machine learning model to predict survivability given passenger characteristics. 
 
-1. [Lab-2](https://github.com/bleonardb3/NS/tree/master/Lab-2) - The second lab will guide participants in using the Watson Studio SPSS Modeler capability to explore, prepare, and model passenger data from the Titanic. The SPSS Modeler is a drag and drop capability to build machine learning pipelines.
+1. [Lab-2](https://github.com/bleonardb3/AA/tree/master/Lab-2) - The second lab will guide participants in using the Watson Studio SPSS Modeler capability to explore, prepare, and model passenger data from the Titanic. The SPSS Modeler is a drag and drop capability to build machine learning pipelines.
 
-1. [Lab-3](https://github.com/bleonardb3/NS/tree/master/Lab-3) - The third lab will leverage Spark machine learning (SparkML) in a Jupyter notebook to predict survivability using pyspark and a supervised learning model.  
+1. [Lab-3](https://github.com/bleonardb3/AA/tree/master/Lab-3) - The third lab will leverage Spark machine learning (SparkML) in a Jupyter notebook to predict survivability using pyspark and a supervised learning model.  
 
-1. [Lab-4](https://github.com/bleonardb3/NS/tree/master/Lab-4) - The fourth lab features the Data Refinery tool a fully managed self-service data preparation facility. 
-
-1. [Lab-5](https://github.com/bleonardb3/NS/tree/master/Lab-5) - The fifth lab will use IBM's Neural Network designer and Experiment builder to build and train a simple Convolutional Neural Network. We will use the well-known MNIST dataset for training, test, and validation [MNIST](http://yann.lecun.com/exdb/mnist/)
+1. [Lab-4](https://github.com/bleonardb3/AA/tree/master/Lab-4) - The fourth lab features the Data Refinery tool a fully managed self-service data preparation facility. 
 
 ## Instructions: Create a Watson Studio project and set up the required services. 
 
