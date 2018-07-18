@@ -1,22 +1,23 @@
-## Watson Machine Learning Lab 
 
-## Introduction:
+## Watson Studio Data Refinery Lab
 
-In this lab, you will use IBM's Watson Machine Learning GUI to train, evaluate, and deploy a Watson Machine Learning model based on the Titanic dataset. This is a common data set used in Kaggle competitions. 
+## Introduction
+In this lab, you will use the Watson Studio Data Refinery to profile data, visualize data, and prepare data for modeling.   
 
-## Objectives:
+## Objectives 
 
-Upon completing the lab, you will:
+Upon completing the lab, you will know how to:
+1. Profile the data to help determine missing values
+1. Visualize the data to gain a better understanding
+1. Prepare the data for modeling
+1. Run the sequence of data preparation operations on the entire data set.
 
-1. Become familiar with the Watson Machine Learning GUI.  
-2. Train/Evaluate a machine learning model
-3. Deploy a machine learning model. 
-4. Deploy an application that invokes the machine learning model service. 
+### Step 1. Please click on the link below and then press the `Download` button to download the instructions to your machine
 
-## Instructions:
+[Instructions](https://github.com/bleonardb3/NS/blob/master/Lab-4/Data%20Refinery%20Labv2.pdf).
 
-### Step 1.  Please click on the link below and then press the `Download` button to download the instructions to your machine.
 
-[Instructions](https://github.com/bleonardb3/NS/blob/master/Lab-1/WatsonMachineLearningv4.pdf).
+
+
 
 
