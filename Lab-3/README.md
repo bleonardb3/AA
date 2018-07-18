@@ -1,44 +1,24 @@
-# Setting up your first Watson Studio notebook
 
-## Introduction:
+## Watson Studio SPSS Modeler Lab
 
-[<img src="https://raw.githubusercontent.com/Davin-IBM/Proof-of-Technology/master/DSX/images/DSX.png" height="150"/>](http://datascience.ibm.com/) [<img src="https://raw.githubusercontent.com/Davin-IBM/Proof-of-Technology/master/DSX/images/jupyter.png" height="150"/>](http://jupyter.org/index.html)
+## Introduction: 
 
-In this lab, you will use IBM's Watson Studio to create a Jupyter notebook to examine the principles of Spark Machine Learning using the Titanic dataset.   You will build a model to predict who survived -- and who did not.
+In this lab, you will use the Watson SPSS Modeler capability to explore, prepare, and model passenger data from the Titanic. The SPSS Modeler is a drag and drop capability to build machine learning pipelines. 
 
-## Objectives:
+## Objectives: 
 
-Upon completing the lab, you will know how to:
+Upon completing the lab, you will:
 
-1. Create a Jupyter notebook from a URL
-1. Load data from a URL
-1. Examine the data in PixieDust
-1. Examine and shape the data for use in an ML model
-1. Build a Pipeline for a Logistic Regression model
-1. Tune the model for maximal effectiveness
+1. Become familiar with the Watson Studio SPSS Modeler capability
+2. Profile the Titanic data set 
+3. Explore the Titanic data set with visualizations
+4. Cleanse and Transform the data 
+5. Train/Evaluate a machine learning mode. 
 
 ## Instructions:
 
-### Step 1.  Log into your [Watson Studio](http://datascience.ibm.com/) account, then select `View All Projects`, then select the project you created at the beginning of this proof of technology.
+### Step 1.  Please click on the link below and then press the `Download` button to download the instructions to your machine.
 
-> <img src="https://github.com/bleonardb3/WM/blob/master/Lab-3/Images/Projects%20Tab.png"/>
-
-
-### Step 2.  Click the `Add to project` link and then click the `Notebook` link in the top right of your project pane.
-
-> <img src="https://github.com/bleonardb3/WM/blob/master/Lab-3/Images/Add%20Notebook%20to%20Project.png"/>
-
-### Step 3.  Create the notebook.
-
-> <img src="https://github.com/bleonardb3/NS/blob/master/Lab-3/images/New%20Notebook.png"/>
-
-1. Click the `From URL` tab under `New Notebook`.
-1. Give the notebook a name in the `Name` field, for example `Machine Learning with SparkML` and optionally you can give it a description.
-1. In the Notebook URL field, use `https://github.com/bleonardb3/NS/blob/master/Lab-3/Lab3Student.ipynb`.
-1. Ensure that there is a `Spark Service` selected, then click the `Create Notebook` button on the bottom right of the screen.
-
-### Step 4.  Follow the instructions in the notebook.
-
-> <img src="https://github.com/bleonardb3/NS/blob/master/Lab-3/images/NotebookIntro.png"/>
+[Instructions](https://github.com/bleonardb3/NS/blob/master/Lab-2/titanic-spss-modeler-edits%201.6.pdf). 
 
 
