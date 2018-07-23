@@ -18,7 +18,7 @@ Upon completing the lab, you will:
 
 ### Step 1.  Please click on the link below and then press the `Download` button to download the instructions to your machine.
 
-[Instructions](https://github.com/bleonardb3/AA/blob/master/Lab-2/titanic-spss-modeler-edits%201.6.pdf). 
+[Instructions](https://github.com/bleonardb3/AA/blob/master/Lab-2/titanic-spss-modeler-edits%201.7.pdf). 
 
 
 
