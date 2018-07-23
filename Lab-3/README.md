@@ -1,24 +1,19 @@
+## Watson Studio Data Refinery Lab
 
-## Watson Studio SPSS Modeler Lab
+## Introduction
+In this lab, you will use the Watson Studio Data Refinery to profile data, visualize data, and prepare data for modeling.   
 
-## Introduction: 
+## Objectives 
 
-In this lab, you will use the Watson SPSS Modeler capability to explore, prepare, and model passenger data from the Titanic. The SPSS Modeler is a drag and drop capability to build machine learning pipelines. 
+Upon completing the lab, you will know how to:
+1. Profile the data to help determine missing values
+1. Visualize the data to gain a better understanding
+1. Prepare the data for modeling
+1. Run the sequence of data preparation operations on the entire data set.
 
-## Objectives: 
+### Step 1. Please click on the link below and then press the `Download` button to download the instructions to your machine
 
-Upon completing the lab, you will:
+[Instructions](https://github.com/bleonardb3/AA/blob/master/Lab-1/Data%20Refinery%20Labv3.pdf).
 
-1. Become familiar with the Watson Studio SPSS Modeler capability
-2. Profile the Titanic data set 
-3. Explore the Titanic data set with visualizations
-4. Cleanse and Transform the data 
-5. Train/Evaluate a machine learning mode. 
-
-## Instructions:
-
-### Step 1.  Please click on the link below and then press the `Download` button to download the instructions to your machine.
-
-[Instructions](https://github.com/bleonardb3/NS/blob/master/Lab-2/titanic-spss-modeler-edits%201.6.pdf). 
 
 
