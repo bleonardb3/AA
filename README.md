@@ -4,7 +4,7 @@ Use IBM’s Watson Studio to create machine learning models and applications. Pa
 
 1. [Lab-2](https://github.com/bleonardb3/AA/tree/master/Lab-2) - The second lab will guide participants in using the Watson Studio SPSS Modeler capability to explore, prepare, and model passenger data from the Titanic. The SPSS Modeler is a drag and drop capability to build machine learning pipelines.   
 
-1. [Lab-3](https://github.com/bleonardb3/AA/tree/master/Lab-3) - The third lab features the Data Refinery tool a fully managed self-service data preparation facility. 
+1. [Lab-3](https://github.com/bleonardb3/AA/tree/master/Lab-3) - The third lab features the Data Refinery tool, a fully managed self-service data preparation facility. 
 
 1. [Lab-4](https://github.com/bleonardb3/AA/tree/master/Lab-4) - The fourth lab will leverage Spark machine learning (SparkML) in a Jupyter notebook to predict survivability using pyspark and a supervised learning model.
 
